@@ -50,8 +50,13 @@
 4. Предоставьте скрипт, cron-task и скриншот с несколькими резервными копиями в "/opt/backup"
 
 ## Задача 6
-Скачайте docker образ ```hashicorp/terraform:latest``` и скопируйте бинарный файл ```/bin/terraform``` на свою локальную машину, используя dive и docker save.
-Предоставьте скриншоты  действий .
+
+<img width="1229" height="765" alt="6 0 1" src="https://github.com/user-attachments/assets/dcee69e1-e9ab-4985-8e20-b7562e8b99bb" />
+
+<img width="1510" height="765" alt="6 0 2" src="https://github.com/user-attachments/assets/72eb70bb-09a7-4fd8-b4e3-cf3c73538deb" />
+
+<img width="1510" height="476" alt="6 0 3" src="https://github.com/user-attachments/assets/c30da809-f85c-4425-a3a6-eeb8109ac2b6" />
+
 
 ## Задача 6.1
 Добейтесь аналогичного результата, используя docker cp.  
